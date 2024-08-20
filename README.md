@@ -50,5 +50,4 @@ MusicApp-UI is a music application built with Jetpack Compose for Android. This 
 Feel free to open issues or submit pull requests for improvements or bug fixes. For any discussions, please reach out through the project’s issue tracker.
 
 ## Contact
-- Created by: Milind Ranjan
 - Email: milindranjan1511@gmail.com
