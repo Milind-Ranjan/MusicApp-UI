@@ -33,29 +33,25 @@ MusicApp-UI is a music application built with Jetpack Compose for Android. This 
 	•	Ensure that you have an Android emulator or a physical device connected.
 	•	Click on the “Run” button in Android Studio.
 
-Dependencies
+## Dependencies
 
-	•	Jetpack Compose
-	•	AndroidX libraries
-	•	Material3
-	•	Kotlin
+	- Jetpack Compose
+	- AndroidX libraries
+	- Material3
+	- Kotlin
 
-Code Explanation
+## Code Explanation
 
-	•	MainActivity.kt: Sets the content view using setContent and applies the MusicAppUITheme to wrap the MainView.
-	•	MainViewModel.kt: Provides state management for the current screen. Uses MutableState to update and observe screen changes.
-	•	Screen.kt: Defines screen configurations for bottom and drawer navigation, including titles, routes, and icons.
-	•	Lib.kt: Contains a data class for library items, used to represent different sections in the library.
+	- MainActivity.kt: Sets the content view using setContent and applies the MusicAppUITheme to wrap the MainView.
+	- MainViewModel.kt: Provides state management for the current screen. Uses MutableState to update and observe screen changes.
+	- Screen.kt: Defines screen configurations for bottom and drawer navigation, including titles, routes, and icons.
+	- Lib.kt: Contains a data class for library items, used to represent different sections in the library.
 
-Contributing
+## Contributing
 
 Feel free to open issues or submit pull requests for improvements or bug fixes. For any discussions, please reach out through the project’s issue tracker.
 
-License
+## Contact
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-
-	•	Created by: Milind Ranjan
-	•	Email: milindranjan1511@gmail.com
+	- Created by: Milind Ranjan
+	- Email: milindranjan1511@gmail.com
