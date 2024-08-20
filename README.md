@@ -23,7 +23,7 @@ MusicApp-UI is a music application built with Jetpack Compose for Android. This 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Milind-Ranjan/MusicApp-UI.git)
 2. Navigate to the project directory:
    ```bash
    cd MusicApp-UI
